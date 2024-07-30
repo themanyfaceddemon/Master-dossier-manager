@@ -1,0 +1,4 @@
+art
+bcrypt
+colorama
+pycryptodome
